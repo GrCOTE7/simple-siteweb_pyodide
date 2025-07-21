@@ -5,7 +5,7 @@ nav:
     # - qcm_1
     # - exos_interactifs
     - sympy
-    # - bac_a_sable.md
+    - bac_a_sable.md
     # - tags.md
     # - credits.md
 
