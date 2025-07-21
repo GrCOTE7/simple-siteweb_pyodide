@@ -3,7 +3,7 @@ author: Votre nom
 title: 🏡 Accueil
 ---
 
-# Modèle de site pour l'enseignement
+# Modèle de site pour l'enseignement 777
 
 Site web écrit en Markdown avec MkDocs.
 
