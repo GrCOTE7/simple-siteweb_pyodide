@@ -2,10 +2,14 @@
 site_description: Un modèle avec mkdocs
 
 # Contenu généré depuis les paramètres de votre espace gitlab à ne pas modifier
-site_name: !ENV [CI_PROJECT_TITLE, "Version locale du site"]
-site_url: !ENV [CI_PAGES_URL, "http://127.0.0.1:8000/"]
-site_author: !ENV [CI_PROJECT_ROOT_NAMESPACE, USERNAME]
+# site_name: !ENV [CI_PROJECT_TITLE, "Version locale du site"]
+# site_url: !ENV [CI_PAGES_URL, "http://127.0.0.1:8000/"]
+# site_author: !ENV [CI_PROJECT_ROOT_NAMESPACE, USERNAME]
 # repo_url: !ENV [CI_PROJECT_URL]  # pour avoir le lien vers le dépôt
+
+site_name: PyMoX Mkdocs Material Doc
+site_url: https://GrCOTE7.github.io/simple-siteweb_pyodide
+repo_url: https://github.com/GrCOTE7/simple-siteweb_pyodide
 
 # À modifier ci dessous : remplacer Nom d'auteur par votre nom
 copyright: |
