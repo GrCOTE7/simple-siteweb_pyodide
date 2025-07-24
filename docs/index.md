@@ -22,7 +22,7 @@ On trouvera :
 
 * "Chapitre 1" avec un seul fichier, le plus simple possible, avec trois exemples d'admonitions (voir le tutoriel), et des exemples de formules de maths ou de chimie
 
-* "Gros chapitre" contenant plusieurs fichiers, correspondant à des parties du chapitre.  
+* "Gros chapitre" contenant plusieurs fichiers, correspondant à des parties du chapitre.
 
     * Dans Chapitre 2 - la Page 1 vous trouverez un exemple d'admonition d'exercice avec la soution cliquable
     * Dans Chapitre 2 - la Page 2 vous trouverez un exemple avec une image

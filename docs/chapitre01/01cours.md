@@ -8,18 +8,39 @@ tags:
 
 ## I. Paragraphe 1 : Quelques tips
 
-!!! info "Mon info"
+### I. Recopier le site
 
-    Ma belle info qui doit être indentée
+👉 Aller sur le dépôt du site qui sert de modèle.
+
+[Site à copier pour cours à usage général](https://forge.apps.education.fr/docs/modeles/site-web-cours-general){ .md-button target="_blank" rel="noopener" } 
+
+!!! question "Une question"
+
+    Ma belle question qui doit être indentée
     
 
-??? note "se déroule en cliquant dessus"
+??? note "Se déroule en cliquant dessus..."
 
     Ma note indentée
 
-??? tip "Astuce"
+    ??? tip "Astuce"
+    
+        Ma belle astuce indentée
+        
+    ??? success "Solution"
+    
+        Ma belle astuce indentée
 
-    Ma belle astuce indentée
+!!! info "Simple info"
+
+    Texte de la remarque indenté
+???+ warning "Remarque (Refermable)"
+
+    Texte de la remarque indenté
+
+!!! danger "ATTENTION"
+
+    Texte du ATTENTION
 
 ### 1. Sous paragraphe 1
 

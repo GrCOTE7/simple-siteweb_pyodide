@@ -71,3 +71,10 @@ body[data-md-color-scheme^="slate"] img.autolight {
     /* display:none */
 }
 
+a[href*="edit"] {
+    transition: color 0.3s ease;
+}
+
+a[href*="edit"]:hover {
+    color: #388E3C;
+}
