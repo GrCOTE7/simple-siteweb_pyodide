@@ -67,7 +67,7 @@ body[data-md-color-scheme^="slate"] img.autolight {
 }
 
 #pyodide-footer {
-    color:red;
+    color:rgb(255, 174, 0);
     /* display:none */
 }
 
