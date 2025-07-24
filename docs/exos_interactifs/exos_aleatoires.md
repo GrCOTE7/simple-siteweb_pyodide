@@ -6,7 +6,13 @@ tags:
   - mon tag 2
 ---
 
+## Puzzle
 
+La réponse attendue est `cinq = [5 for k in range(20)]`
+
+???+ question
+
+    <iframe src="https://www.codepuzzle.io/p/T3WK" width="100%" height="300" frameborder="0"></iframe>
 
 ## Exercice sur les capitales en Europe
 

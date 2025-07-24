@@ -110,3 +110,5 @@ $$
 \lim_{x->+\infty}\frac{x}{x+1}=1\\
 \prod_{k=1}^\infty k\\
 $$
+
+[Éditeur LaTeX en ligne](https://editor.codecogs.com){ .md-button target="_blank" rel="noopener" } 
